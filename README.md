@@ -29,8 +29,9 @@ Follow these steps to get the clock running in an isolated virtual environment (
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone https://github.com/eljattarii/transparent-desktop-clock.git
+cd transparent-desktop-clock
+
 
 ```
 *(Make sure to put your actual Poppins-Black.ttf font file inside this directory)*
