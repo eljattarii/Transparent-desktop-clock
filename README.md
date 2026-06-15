@@ -76,7 +76,3 @@ To make the clock start beautifully 13 seconds after your desktop environment fu
 ```
 ## 📄 License
 This project is open-source and available under the MIT License.
-```
-
-```
-
