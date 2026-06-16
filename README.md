@@ -2,6 +2,15 @@
   <a href="README.ar.md">🌍 العربية</a>
 </div>
 
+---
+
+<div align="center">
+  <br>
+  <img src="https://github.com/eljattarii/Transparent-desktop-clock/blob/main/Images/screenshot-desktop.png" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <p><i>Minimalist and transparent desktop clock interface.</i></p>
+  <br>
+</div>
+
 
 # 🕒 Transparent Desktop Desklet Clock
 
