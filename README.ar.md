@@ -2,6 +2,13 @@
   <a href="README.md">🌍 English </a>
 </div>
 
+---
+  <div align="center">
+  <br>
+  <img src="https://github.com/eljattarii/Transparent-desktop-clock/blob/main/Images/screenshot-desktop.png" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <p><i>واجهة الساعة بتصميم شفاف وبسيط لسطح المكتب.</i></p>
+  <br>
+
 # 🕒 ساعة سطح المكتب الشفافة.
 ساعة سطح المكتب شفافة، عصرية، ومصممة بأعلى درجات الكفاءة لأنظمة Linux (ومهيأة خصيصاً لتوزيعة Linux Mint). تم بناؤها باستخدام **Python 3** ومكتبة **PyQt6**، لتندمج بشكل جمالي رائع مع بيئة سطح المكتب لديك مع الحفاظ على استهلاك موارد الجهاز عند الصفر مطلقاً.
 
