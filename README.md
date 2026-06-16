@@ -69,7 +69,7 @@ To make the clock start beautifully 13 seconds after your desktop environment fu
  5. Fill in the fields as follows:
    * **Name:** Desktop Clock
    * **Command:** *Paste the exact line you copied in Step 2 here (Ensure paths with spaces are enclosed in double quotes "")*
-   * **Startup Delay:** Set it to 13 seconds.
+   * **Startup Delay:** Set it to 10 seconds.
  6. Click **Save** and reboot your system!
 ## 📁 Project Structure
 ```text
