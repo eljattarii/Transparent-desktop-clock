@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.ar.md">🌍 العربية</a>
+</div>
+
 
 # 🕒 Transparent Desktop Desklet Clock
 
