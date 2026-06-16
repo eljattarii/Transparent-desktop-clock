@@ -32,7 +32,7 @@ class DeskletClock(QWidget):
         self.label = QLabel()
         self.label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         
-        font_id = QFontDatabase.addApplicationFont("Poppins-Black.ttf")
+        font_id = QFontDatabase.addApplicationFont("Font/Poppins-Black.ttf")
         families = QFontDatabase.applicationFontFamilies(font_id)
         
         if families:
